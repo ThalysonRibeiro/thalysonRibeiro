@@ -1,4 +1,3 @@
-# Thalyson Ribeiro
 
 Desenvolvedor full-stack com background em gastronomia.  
 Aprendi a trabalhar sob pressão na cozinha — hoje aplico isso escrevendo código.
