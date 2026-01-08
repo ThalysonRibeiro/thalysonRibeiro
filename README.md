@@ -32,18 +32,3 @@ Aplicação SaaS full-stack com real-time collaboration e arquitetura escalável
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](...)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](rafinha.head@email.com)
 [![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/thalyson_rb)
-
-
-
-
-
-
-
-
----
-
-<div align="center">
-
-💡 **Open to interesting projects and opportunities**
-
-</div>
