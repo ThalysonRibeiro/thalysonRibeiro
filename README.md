@@ -24,6 +24,9 @@ Construo aplicações web completas, focadas em clareza, arquitetura sólida e m
   <img src="https://img.shields.io/badge/Vexiun-252525?style=for-the-badge" height="25px" />
 </div>
 
+<!-- Badge com V simplificado
+![Vexiun](https://img.shields.io/badge/Vexiun-252525?style=for-the-badge&logo=v&logoColor=white)
+ -->
 ---
 
 ### 🚀 Projeto Atual
