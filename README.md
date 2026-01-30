@@ -31,11 +31,12 @@ Construo aplicações web completas, focadas em clareza, arquitetura sólida e m
 
 ### 🚀 Projeto Atual
 
-**[Vexiun](https://vexiun.com)** — Plataforma moderna de gestão de projetos
+**[Vexiun](https://vexiun.com)** — Plataforma de gestão de projetos  
+✨ **Ao vivo em produção!**
 
-Aplicação SaaS full-stack com real-time collaboration e arquitetura escalável.
+Monorepo full-stack com IA setup e real-time collaboration.
 
-**Stack:** TypeScript • Next.js • NestJS • PostgreSQL • Prisma • WebSockets
+**Stack:** TypeScript • Next.js 15 • NestJS • Prisma • PostgreSQL • Redis
 
 ### 📫 Contato
 
