@@ -20,6 +20,7 @@ Construo aplicações web completas, focadas em clareza, arquitetura sólida e m
   <img src="https://img.shields.io/badge/.NET-252525?style=for-the-badge&logo=.net&logoColor=white" height="25px" /> -->
   <img src="https://img.shields.io/badge/PostgreSQL-252525?style=for-the-badge&logo=postgresql&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Prisma-252525?style=for-the-badge&logo=prisma&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Drizzle-252525?style=for-the-badge&logo=drizzle&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Docker-252525?style=for-the-badge&logo=docker&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Vexiun-252525?style=for-the-badge" height="25px" />
 </div>
