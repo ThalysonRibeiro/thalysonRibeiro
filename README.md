@@ -37,7 +37,7 @@ Construo aplicações web completas, focadas em clareza, arquitetura sólida e m
 
 Monorepo full-stack com IA setup e real-time collaboration.
 
-**Stack:** TypeScript • Next.js 15 • NestJS • Prisma • PostgreSQL • Redis
+**Stack:** TypeScript • Next.js 15 • NestJS • Drizzle • PostgreSQL • Redis
 
 ### 📫 Contato
 
