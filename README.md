@@ -41,6 +41,6 @@ Monorepo full-stack com IA setup e real-time collaboration.
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-252525?logo=linkedin&logoColor=white)](www.linkedin.com/in/thalyson-rafael)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-252525?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalyson-rafael)
 [![Email](https://img.shields.io/badge/Email-252525?logo=gmail&logoColor=white)](rafinha.head@email.com)
 [![X](https://img.shields.io/badge/-252525?style=flat&logo=x&logoColor=white)](https://x.com/thalyson_rb)
