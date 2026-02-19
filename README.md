@@ -1,46 +1,57 @@
-Desenvolvedor full-stack com background em gastronomia.  
-Aprendi a trabalhar sob pressão na cozinha — hoje aplico isso escrevendo código.
+# 🚀 Thalyson Rafael
 
-Construo aplicações web completas, focadas em clareza, arquitetura sólida e manutenção.
+Full-stack developer building real products from scratch.
 
-### 🛠️ Stack
+From high-pressure kitchens to scalable software architecture —  
+I transform ideas into structured, production-ready systems.
 
-<div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: flex-start; align-items: center;">
-  <!-- <img src="https://img.shields.io/badge/HTML5-252525?style=for-the-badge&logo=html5&logoColor=white" height="25px" /> 
-  <img src="https://img.shields.io/badge/CSS3-252525?style=for-the-badge&logo=css3&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Tailwind-252525?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/JavaScript-252525?style=for-the-badge&logo=javascript&logoColor=white" height="25px" />
-  -->
+Currently building **Vexiun**, a multi-tenant project management platform focused on reducing friction in team setup and execution.
+
+---
+
+## 🧠 What I Focus On
+
+- Scalable full-stack architecture
+- Multi-tenant systems
+- Event-driven backend design
+- Real-time collaboration (WebSocket)
+- Product-oriented engineering
+
+---
+
+## 🛠️ Core Stack
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img src="https://img.shields.io/badge/TypeScript-252525?style=for-the-badge&logo=typescript&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/React-252525?style=for-the-badge&logo=react&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Next.js-252525?style=for-the-badge&logo=next.js&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/NestJS-252525?style=for-the-badge&logo=nestjs&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Node.js-252525?style=for-the-badge&logo=node.js&logoColor=white" height="25px" />
-  <!-- <img src="https://img.shields.io/badge/c%23-252525?style=for-the-badge&logo=csharp&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/.NET-252525?style=for-the-badge&logo=.net&logoColor=white" height="25px" /> -->
   <img src="https://img.shields.io/badge/PostgreSQL-252525?style=for-the-badge&logo=postgresql&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Prisma-252525?style=for-the-badge&logo=prisma&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Drizzle-252525?style=for-the-badge&logo=drizzle&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Redis-252525?style=for-the-badge&logo=redis&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Docker-252525?style=for-the-badge&logo=docker&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Vexiun-252525?style=for-the-badge" height="25px" />
 </div>
 
-<!-- Badge com V simplificado
-![Vexiun](https://img.shields.io/badge/Vexiun-252525?style=for-the-badge&logo=v&logoColor=white)
- -->
 ---
 
-### 🚀 Projeto Atual
+## 🚀 Current Project
 
-**[Vexiun](https://vexiun.com)** — Plataforma de gestão de projetos  
-✨ **Ao vivo em produção!**
+### [Vexiun](https://vexiun.com)
 
-Monorepo full-stack com IA setup e real-time collaboration.
+Modern project management platform built for technical teams.
 
-**Stack:** TypeScript • Next.js 15 • NestJS • Drizzle • PostgreSQL • Redis
+- Monorepo architecture (Turbo + Workspaces)
+- Type-safe end-to-end contracts
+- Event-driven backend
+- Real-time collaboration
+- Cost-optimized infrastructure
 
-### 📫 Contato
+✨ Live in production
+
+---
+
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-252525?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalyson-rafael)
-[![Email](https://img.shields.io/badge/Email-252525?logo=gmail&logoColor=white)](rafinha.head@email.com)
+[![Email](https://img.shields.io/badge/Email-252525?logo=gmail&logoColor=white)](mailto:rafinha.head@email.com)
 [![X](https://img.shields.io/badge/-252525?style=flat&logo=x&logoColor=white)](https://x.com/thalyson_rb)
