@@ -1,4 +1,4 @@
-# 🚀 Thalyson Rafael
+# Thalyson Rafael
 
 Full-stack developer building real products from scratch.
 
@@ -9,7 +9,7 @@ Currently building **Vexiun**, a multi-tenant project management platform focuse
 
 ---
 
-## 🧠 What I Focus On
+## What I Focus On
 
 - Scalable full-stack architecture
 - Multi-tenant systems
@@ -19,7 +19,7 @@ Currently building **Vexiun**, a multi-tenant project management platform focuse
 
 ---
 
-## 🛠️ Core Stack
+## Core Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img src="https://img.shields.io/badge/TypeScript-252525?style=for-the-badge&logo=typescript&logoColor=white" height="25px" />
@@ -34,7 +34,7 @@ Currently building **Vexiun**, a multi-tenant project management platform focuse
 
 ---
 
-## 🚀 Current Project
+## Current Project
 
 ### [Vexiun](https://vexiun.com)
 
