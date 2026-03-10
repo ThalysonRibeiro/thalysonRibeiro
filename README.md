@@ -1,38 +1,25 @@
 # Thalyson Rafael
 
-Full-stack developer building real products from scratch.
+Full-stack developer building real products.
 
-From high-pressure kitchens to scalable software architecture —  
-I transform ideas into structured, production-ready systems.
+From high-pressure kitchens to software architecture.
 
-Currently building **Vexiun**, a multi-tenant project management platform focused on reducing friction in team setup and execution.
+I design and build systems focused on **clarity, scalability and product impact**.
 
----
-
-## What I Focus On
-
-- Scalable full-stack architecture
-- Multi-tenant systems
-- Event-driven backend design
-- Real-time collaboration (WebSocket)
-- Product-oriented engineering
-
----
+Currently building **Vexiun**, a multi-tenant platform for managing technical work.
 
 ## Core Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
-  <img src="https://img.shields.io/badge/TypeScript-252525?style=for-the-badge&logo=typescript&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/React-252525?style=for-the-badge&logo=react&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Next.js-252525?style=for-the-badge&logo=next.js&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/NestJS-252525?style=for-the-badge&logo=nestjs&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/PostgreSQL-252525?style=for-the-badge&logo=postgresql&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Drizzle-252525?style=for-the-badge&logo=drizzle&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Redis-252525?style=for-the-badge&logo=redis&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Docker-252525?style=for-the-badge&logo=docker&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/TypeScript-830F2C?style=for-the-badge&logo=typescript&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/React-830F2C?style=for-the-badge&logo=react&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Next.js-830F2C?style=for-the-badge&logo=next.js&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/NestJS-830F2C?style=for-the-badge&logo=nestjs&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/PostgreSQL-830F2C?style=for-the-badge&logo=postgresql&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Drizzle-830F2C?style=for-the-badge&logo=drizzle&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Redis-830F2C?style=for-the-badge&logo=redis&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Docker-830F2C?style=for-the-badge&logo=docker&logoColor=white" height="25px" />
 </div>
-
----
 
 ## Current Project
 
