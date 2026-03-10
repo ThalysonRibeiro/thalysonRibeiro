@@ -11,14 +11,14 @@ Currently building **Vexiun**, a multi-tenant platform for managing technical wo
 ## Core Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
-  <img src="https://img.shields.io/badge/TypeScript-830F2C?style=for-the-badge&logo=typescript&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/React-830F2C?style=for-the-badge&logo=react&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Next.js-830F2C?style=for-the-badge&logo=next.js&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/NestJS-830F2C?style=for-the-badge&logo=nestjs&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/PostgreSQL-830F2C?style=for-the-badge&logo=postgresql&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Drizzle-830F2C?style=for-the-badge&logo=drizzle&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Redis-830F2C?style=for-the-badge&logo=redis&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Docker-830F2C?style=for-the-badge&logo=docker&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/TypeScript-252525?style=for-the-badge&logo=typescript&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/React-252525?style=for-the-badge&logo=react&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Next.js-252525?style=for-the-badge&logo=next.js&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/NestJS-252525?style=for-the-badge&logo=nestjs&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/PostgreSQL-252525?style=for-the-badge&logo=postgresql&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Drizzle-252525?style=for-the-badge&logo=drizzle&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Redis-252525?style=for-the-badge&logo=redis&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Docker-252525?style=for-the-badge&logo=docker&logoColor=white" height="25px" />
 </div>
 
 ## Current Project
