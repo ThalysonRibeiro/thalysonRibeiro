@@ -1,14 +1,14 @@
 # Thalyson Rafael
 
 Full-stack developer building real products.
-
+<!-- 
 From high-pressure kitchens to software architecture.
 
 I design and build systems focused on **clarity, scalability and product impact**.
 
-Currently building **Vexiun**, a multi-tenant platform for managing technical work.
+Currently building **Vexiun**, a multi-tenant platform for managing technical work. -->
 
-## Core Stack
+<!-- ## Core Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img src="https://img.shields.io/badge/TypeScript-252525?style=for-the-badge&logo=typescript&logoColor=white" height="25px" />
@@ -19,7 +19,7 @@ Currently building **Vexiun**, a multi-tenant platform for managing technical wo
   <img src="https://img.shields.io/badge/Drizzle-252525?style=for-the-badge&logo=drizzle&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Redis-252525?style=for-the-badge&logo=redis&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Docker-252525?style=for-the-badge&logo=docker&logoColor=white" height="25px" />
-</div>
+</div> -->
 
 ## Current Project
 
@@ -33,7 +33,7 @@ Modern project management platform built for technical teams.
 - Real-time collaboration
 - Cost-optimized infrastructure
 
-✨ Live in production
+<!-- ✨ Live in production -->
 
 ---
 
