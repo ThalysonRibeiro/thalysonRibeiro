@@ -42,3 +42,9 @@ Modern project management platform built for technical teams.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-252525?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalyson-rafael)
 [![Email](https://img.shields.io/badge/Email-252525?logo=gmail&logoColor=white)](mailto:rafinha.head@email.com)
 [![X](https://img.shields.io/badge/-252525?style=flat&logo=x&logoColor=white)](https://x.com/thalyson_rb)
+
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ThalysonRibeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ThalysonRibeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
+</div>
